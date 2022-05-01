@@ -7,6 +7,7 @@ void main() {  //void의 뜻은 아무것도 없다는 뜻
 	// main: 시작위치를 뜻 함.
 	//{}: 범위를 의미함. main안에 있는 한 세트를 의미!
 	printf("hello world!"); //; 세미콜론은 문장이 끝날때 해줘야 하는 표시
+	printf("\n지영");
 	return 0;
 
 }
