@@ -18,11 +18,37 @@
     <ClCompile Include="CProject01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CProject02.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="CProject03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CProject04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CProject13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CProject06.c">
+      <Filter>소스 파일</Filter>
+    </None>
   </ItemGroup>
 </Project>
